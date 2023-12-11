@@ -1,0 +1,8 @@
+ 
+# Reference compose file version 3
+version: “3”
+services:
+# Service name is react-app
+  react-app:
+    ports:
+      - "5173:5173"
